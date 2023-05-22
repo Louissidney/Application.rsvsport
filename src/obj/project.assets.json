@@ -3376,11 +3376,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\enzo\\source\\repos\\rsvsport_logiciel\\rsvsport_logiciel.csproj",
+      "projectUniqueName": "C:\\Users\\enzo\\source\\repos\\rsvsport_logiciel.git\\src\\rsvsport_logiciel.csproj",
       "projectName": "rsvsport_logiciel",
-      "projectPath": "C:\\Users\\enzo\\source\\repos\\rsvsport_logiciel\\rsvsport_logiciel.csproj",
+      "projectPath": "C:\\Users\\enzo\\source\\repos\\rsvsport_logiciel.git\\src\\rsvsport_logiciel.csproj",
       "packagesPath": "C:\\Users\\enzo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\enzo\\source\\repos\\rsvsport_logiciel\\obj\\",
+      "outputPath": "C:\\Users\\enzo\\source\\repos\\rsvsport_logiciel.git\\src\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

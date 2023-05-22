@@ -7,9 +7,6 @@
     <Compile Update="Foot.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="MdpOublie.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Update="Rugby.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -32,7 +32,6 @@
             panel2 = new Panel();
             panel3 = new Panel();
             panel4 = new Panel();
-            label3 = new Label();
             Login = new Button();
             PasswordTxt = new TextBox();
             label2 = new Label();
@@ -90,20 +89,6 @@
             panel4.Name = "panel4";
             panel4.Size = new Size(664, 6);
             panel4.TabIndex = 3;
-            // 
-            // label3
-            // 
-            label3.AutoSize = true;
-            label3.BackColor = Color.Transparent;
-            label3.Font = new Font("Mongolian Baiti", 10F, FontStyle.Regular, GraphicsUnit.Point);
-            label3.ForeColor = Color.FromArgb(192, 0, 0);
-            label3.Location = new Point(318, 229);
-            label3.Margin = new Padding(2, 0, 2, 0);
-            label3.Name = "label3";
-            label3.Size = new Size(129, 15);
-            label3.TabIndex = 21;
-            label3.Text = "Mot de passe oublié ?";
-            label3.Click += label3_Click;
             // 
             // Login
             // 
@@ -283,7 +268,6 @@
             ClientSize = new Size(678, 299);
             Controls.Add(checkBox1);
             Controls.Add(panel5);
-            Controls.Add(label3);
             Controls.Add(Login);
             Controls.Add(PasswordTxt);
             Controls.Add(label2);
@@ -310,7 +294,6 @@
         private Panel panel2;
         private Panel panel3;
         private Panel panel4;
-        private Label label3;
         private Button Login;
         private TextBox PasswordTxt;
         private Label label2;

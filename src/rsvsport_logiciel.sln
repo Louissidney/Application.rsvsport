@@ -13,13 +13,24 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
 		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		rsvsport|Any CPU = rsvsport|Any CPU
+		rsvsport|x64 = rsvsport|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{6ED1382D-A080-4944-8B6B-F6FD7FEB2AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6ED1382D-A080-4944-8B6B-F6FD7FEB2AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED1382D-A080-4944-8B6B-F6FD7FEB2AAF}.Debug|x64.ActiveCfg = Debug|x64
+		{6ED1382D-A080-4944-8B6B-F6FD7FEB2AAF}.Debug|x64.Build.0 = Debug|x64
 		{6ED1382D-A080-4944-8B6B-F6FD7FEB2AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6ED1382D-A080-4944-8B6B-F6FD7FEB2AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ED1382D-A080-4944-8B6B-F6FD7FEB2AAF}.Release|x64.ActiveCfg = Release|x64
+		{6ED1382D-A080-4944-8B6B-F6FD7FEB2AAF}.Release|x64.Build.0 = Release|x64
+		{6ED1382D-A080-4944-8B6B-F6FD7FEB2AAF}.rsvsport|Any CPU.ActiveCfg = rsvsport|Any CPU
+		{6ED1382D-A080-4944-8B6B-F6FD7FEB2AAF}.rsvsport|x64.ActiveCfg = rsvsport|x64
+		{6ED1382D-A080-4944-8B6B-F6FD7FEB2AAF}.rsvsport|x64.Build.0 = rsvsport|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

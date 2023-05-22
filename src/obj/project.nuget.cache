@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jl8cIlnH0xKq1AIiBbsO6NN6in7H6PPE5zwwRyba6CgmS4PJ68gJT/ZumQq1kMWiq3GL/+lvbTx/TWy4wOjHbg==",
+  "dgSpecHash": "j5WIQ1zUs8UVAe8dcm8ANgpGIWDa82Wc2IQVgfyj2cCCSg7IZZlSknr52mDHTAJXexixwmmAFLPqPK31bQf+XQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\enzo\\source\\repos\\rsvsport_logiciel\\rsvsport_logiciel.csproj",
+  "projectFilePath": "C:\\Users\\enzo\\source\\repos\\rsvsport_logiciel.git\\src\\rsvsport_logiciel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\enzo\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\enzo\\.nuget\\packages\\k4os.compression.lz4\\1.3.5\\k4os.compression.lz4.1.3.5.nupkg.sha512",

@@ -90,14 +90,5 @@ namespace rsvsport_logiciel
             }
         }
 
-
-        // Voir page mot de passe oublié
-        private void label3_Click(object sender, EventArgs e)
-        {
-            //conn.Close();
-            this.Hide();
-            MdpOublie MdpOublie = new MdpOublie();
-            MdpOublie.Show();
-        }
     }
 }

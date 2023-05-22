@@ -208,7 +208,5 @@ namespace rsvsport_logiciel
             Connection1 Connection1 = new Connection1();
             Connection1.Show();
         }
-
-
     }
 }
