@@ -5,6 +5,8 @@ Reservation de Salles
 Application lourdes dans le but de fournir aux administrateurs une gestion de réservation de salle.
 Les sport proposés sont le tennis, le rugby et le foot.
 
+L'executable se trouve dans le fichier /src/bin/x64/rsvsport/net6.0-windows/rsvsport_logiciel
+
 
 Prérequis
 --------------
